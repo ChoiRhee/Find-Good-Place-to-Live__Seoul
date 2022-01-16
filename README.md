@@ -3,7 +3,7 @@
 <p>
 <a href="https://public.tableau.com/app/profile/.34638457/viz/2_16420797630940/78page"><img src="https://img.shields.io/badge/Tableau Public-E97627?style=flat-square&logo=Tableau&logoColor=white&link=https://public.tableau.com/app/profile/.34638457/viz/2_16420797630940/78page"/></a>&nbsp
 <a href="https://boaz16-viz-adv.github.io/Web//"><img src="https://img.shields.io/badge/Website-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://boaz16-viz-adv.github.io/Web//"/></a>&nbsp
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
+<a href="https://www.instagram.com/where.is.my.home___seoul/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/where.is.my.home___seoul/"/>
 </p>
 
   <tr>
