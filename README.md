@@ -35,6 +35,11 @@
   </tr>
 </table>
 <br>
+  
+- 첫번째 대시보드에서는 살기 좋은 곳이란 무엇일까?라는 주제로 이야기를 풀어나가고 있습니다.
+- 여러 지표를 통해 살기 좋은 곳이 무엇인지 정의하고, 연령대별로 살기 좋은 곳에 대한 조건을 키워드를 통해 설명하며 흥미를 유발하고자 합니다.
+- 이 대시보드에서 사용하는 지표는 교통, 안전, 의료, 편의, 문화입니다.
+<br>
 
 ## DashBoart-2 : Find a Good Place to Live
 <table>
@@ -46,17 +51,24 @@
 </table>
 <br>
 
+- 두번째 대시보드에서는 살기 좋은 곳이 무엇인지 정의하였으니 이번엔 사용자가 살기 좋은 곳을 알아보고자 합니다.
+- 사용자의 선택에 따라 家明이 선정한 5가지 지표에 따라 가중치를 반영하여 개인의 선호도에 맞는 지역을 제시합니다.
+- 사용자들은 이 대시보드를 통해 개인의 선호도에 맞는 지역을 추천받을 수 있습니다.
+<br>
+
 ## DashBoard-3 : How to sign a house contract?
 <table>
   <tr>
-    <td align="center"><img src="https://user-images.githubusercontent.com/65180076/149661294-6d1d3f80-ee14-4c16-aa0d-a711c0173625.png"><br /><sub><b>전세 대출 유무 여부에 따른 계약 과정</b></sub></td>
-    <td align="center"><img src="https://user-images.githubusercontent.com/65180076/149661308-a311dd37-f3ef-40ed-a12f-c2527a7399e0.png"><br /><sub><b>전세 계약 시 예상 소모비용</b></sub></td>   
+    <td align="center"><img src="https://user-images.githubusercontent.com/65180076/149986427-092c7e9e-b876-4330-9475-394b1b9d7263.png"><br /><sub><b>전세 대출을 받을 시 계약 과정</b></sub></td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/65180076/149986560-2bd9e98e-7407-4f2f-9841-257b7bd55e12.png"><br /><sub><b>전세 대출을 받지 않을 시 계약 과정</b></sub></td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/65180076/149986597-de788ab5-2f40-432b-94c5-1cbae8b13124.png"><br /><sub><b>전세 계약 시 예상 소모비용</b></sub></td>   
   </tr>
 </table>
+<br>
 
-
-## How to use
-
+- 마지막 대시보드에서는 앞서 찾아보았던 사용자에게 맞는 살기 좋은 곳에서 거주하기 위한 조건과 방법을 살펴봅니다.
+- 실제로 집을 계약할 때 필요한 준비사항, 주의사항, 눈여겨 봐야 할 사항들을 상세히 살펴보며 대략적인 소모 비용을 계산합니다. 
+<br>
 
 ## Data Source
 #### Dashboard 1
