@@ -65,7 +65,7 @@
 - **[Page 1 & 2]** 서울시 주민등록인구(월별/동별) 통계 [(출처)](https://data.seoul.go.kr/dataList/11068/S/2/datasetView.do)
 - **[Page 3 & 4]** 관련 키워드별 기사 스크랩
 - **[age 5 & 6]** 서울시 거주지 선택시 고려요인 통계 [(출처)](https://data.seoul.go.kr/dataList/10275/S/2/datasetView.do#)
-- **[Page 5 & 6]** 맵이랑 지표 점수에 쓴 자치구_카테고리 점수화 데이터 출처 알려주삼
+- **[Page 5 & 6]** 카카오맵, 구글맵 API를 활용한 크롤링
 
 #### Dashboard 2
 - **[Page 7 & 8]** 서울특별시 전월세가 정보 : 2016년 ~ 2020년 [(출처)](http://data.seoul.go.kr/dataList/OA-15549/S/1/datasetView.do)
