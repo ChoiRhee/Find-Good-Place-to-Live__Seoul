@@ -44,7 +44,7 @@
 ## DashBoart-2 : Find a Good Place to Live
 <table>
   <tr>
-    <td align="center"><img src="https://user-images.githubusercontent.com/65180076/150513373-6f2b52eb-eb7e-48a9-aee4-e66ec855f1f5.png"><br /><sub><b>5개 지표를 통한 살기 좋은 지역 찾</b></sub></td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/65180076/150513373-6f2b52eb-eb7e-48a9-aee4-e66ec855f1f5.png"><br /><sub><b>5개 지표를 통한 살기 좋은 지역 찾기</b></sub></td>
     <td align="center"><img src="https://user-images.githubusercontent.com/65180076/150513375-8e6f6301-084d-467f-956f-d12ef12ba083.png"><br /><sub><b>원하는 조건으로 서울 내의 선호 지역 찾기</b></sub></td>
     <td align="center"><img src="https://user-images.githubusercontent.com/65180076/150513366-62d90ac9-9a61-4362-929a-02caea39597f.png"><br /><sub><b>연도별 자치구의 보증금과 임대료 변화 추이</b></sub></td>      
   </tr>
